@@ -30,7 +30,7 @@
   "private": true,
   "dependencies": {
     "@hathor/wallet-lib": "2.0.1",
-    "@ledgerhq/hw-transport-node-hid": "6.28.1",
+    "@ledgerhq/hw-transport-node-hid": "6.29.5",
     "@reduxjs/toolkit": "2.2.3",
     "@sentry/electron": "3.0.7",
     "babel-polyfill": "6.26.0",
